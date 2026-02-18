@@ -1,0 +1,25 @@
+﻿  main.cpp
+  practice.cpp
+D:\ali data structure\Array\array3\practice.cpp(3,2): error C2065: 'capacity': undeclared identifier
+D:\ali data structure\Array\array3\practice.cpp(3,11): error C2760: syntax error: '=' was unexpected here; expected ']'
+D:\ali data structure\Array\array3\practice.cpp(1,1): error C2090: function returns array
+D:\ali data structure\Array\array3\practice.cpp(3,13): error C3646: 'capacity': unknown override specifier
+D:\ali data structure\Array\array3\practice.cpp(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ali data structure\Array\array3\practice.cpp(3,22): error C2059: syntax error: '+'
+D:\ali data structure\Array\array3\practice.cpp(3,24): error C2059: syntax error: 'constant'
+D:\ali data structure\Array\array3\practice.cpp(4,10): error C2143: syntax error: missing ';' before '*'
+D:\ali data structure\Array\array3\practice.cpp(4,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ali data structure\Array\array3\practice.cpp(4,12): error C2059: syntax error: 'new'
+D:\ali data structure\Array\array3\practice.cpp(5,39): error C2143: syntax error: missing ')' before ';'
+D:\ali data structure\Array\array3\practice.cpp(5,41): error C2143: syntax error: missing ';' before '++'
+D:\ali data structure\Array\array3\practice.cpp(5,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ali data structure\Array\array3\practice.cpp(5,41): error C2059: syntax error: '++'
+D:\ali data structure\Array\array3\practice.cpp(5,43): error C2059: syntax error: ')'
+D:\ali data structure\Array\array3\practice.cpp(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ali data structure\Array\array3\practice.cpp(10,18): error C2061: syntax error: identifier 'employees'
+D:\ali data structure\Array\array3\practice.cpp(13,3): error C2143: syntax error: missing ';' before 'if'
+D:\ali data structure\Array\array3\practice.cpp(12,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ali data structure\Array\array3\practice.cpp(13,3): error C2059: syntax error: 'if'
+D:\ali data structure\Array\array3\practice.cpp(14,3): error C2143: syntax error: missing ';' before '{'
+D:\ali data structure\Array\array3\practice.cpp(14,3): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
